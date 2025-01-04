@@ -1,0 +1,39 @@
+h3{
+    padding: 20px;
+    color: #3c0ed4;
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+
+
+h4{
+    padding: 20px;
+}
+
+
+h5 {
+    color: #2a17b8;
+    padding: 16px;
+    font-weight: bold;
+}
+
+
+.cardstyle {
+    background-color: black;
+    color: rgb(18, 165, 79);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.pink_span{
+    color: rgb(231, 35, 146);
+    font-weight: bold;
+}
+
+.red_span{
+    color: rgb(220, 21, 31);
+    font-weight: bold;
+}
